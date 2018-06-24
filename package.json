@@ -1,0 +1,23 @@
+{
+  "name": "@tyrant/tyrant-cli",
+  "version": "1.0.7",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "ty": "./index.js"
+  },
+  "author": "fgLxy",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "fs-extra": "^6.0.1",
+    "request": "^2.87.0",
+    "shelljs": "^0.8.2",
+    "tar-pack": "^3.4.1",
+    "yargs": "^11.0.0"
+  },
+  "npmURL": "http://39.104.92.235:8001/"
+}
