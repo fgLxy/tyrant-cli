@@ -8,4 +8,5 @@ yargs.usage('脚手架工具: ty <command> [options]')
      .command('build', '开发环境构建')
      .command('publish', '生产环境构建')
 
+
 module.exports = yargs.argv;
